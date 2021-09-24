@@ -2,7 +2,7 @@
 
 ## Describe
 
-> This plugin simplify the localStorage operation.
+> This plugin simplifid the localStorage operation.
 
 ## data type
 
